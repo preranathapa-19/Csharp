@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\csharp\week3_lab\bin\Debug\net10.0\week3_lab.exe
+C:\Users\Asus\Documents\csharp\week3_lab\bin\Debug\net10.0\week3_lab.deps.json
+C:\Users\Asus\Documents\csharp\week3_lab\bin\Debug\net10.0\week3_lab.runtimeconfig.json
+C:\Users\Asus\Documents\csharp\week3_lab\bin\Debug\net10.0\week3_lab.dll
+C:\Users\Asus\Documents\csharp\week3_lab\bin\Debug\net10.0\week3_lab.pdb
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.AssemblyInfo.cs
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.sourcelink.json
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.dll
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\refint\week3_lab.dll
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.pdb
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\week3_lab.genruntimeconfig.cache
+C:\Users\Asus\Documents\csharp\week3_lab\obj\Debug\net10.0\ref\week3_lab.dll
